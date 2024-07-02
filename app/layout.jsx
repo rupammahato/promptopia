@@ -5,6 +5,7 @@ export const metadata={
     title:"Promtopia",
     description:"Discover & Share AI Prompts"
 }
+
 const RootLayout = ({children}) => {
   return (
     <html lang="en">
